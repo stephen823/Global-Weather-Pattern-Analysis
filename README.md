@@ -1,4 +1,4 @@
-#Global-Weather-Pattern-Analysis
+## Global-Weather-Pattern-Analysis
 
 ## Project Intro/Objective
 This project investigates the role of latitude in determining local weather patterns, including temperature, humidity, cloudiness, and wind speed, based on weather data of a large number of cities. Furthermore, 	I also aim to visualize the discovered pattern through map visualization.
